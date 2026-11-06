@@ -1,0 +1,18 @@
+Perfil de Alumno --> Mario Sánchez García
+
+- Datos Personales:
+    · Nombre: Mario Sánchez García
+    · Aficiones/Sobre mi: Me gusta el deporte y la programación
+
+- Modulos del ciclo:
+    · Sistemas informáticos
+    · Base de Datos
+    · Entornos de desarrollo
+    · Digitalización
+    · Itenerario personal para la empleabilidad
+    · Sostenibilidad 
+    · Lenguaje de Marcas
+    · Programación
+
+- Comentario
+    "Tengo muchas ganas de aprender a programar en Java y montar servidores este año."
